@@ -1,2 +1,2 @@
 # Emotion-Recognition-on-Videos
-Project for Multimodal ML
+Assignment for Machine Learning on Multimodal Datasets.
